@@ -1,0 +1,20 @@
+{
+  "name": "basic_shades_1",
+  "symbol": "BS1",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CnMHeHgrnbjxRDwRdr3bLC9wz6vavU4FzL1Uabatveap",
+        "share": 100
+      }
+    ]
+  },
+  "collection": { "name": "basicShades", "family": "basicShades" }
+}

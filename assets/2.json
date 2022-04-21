@@ -1,0 +1,19 @@
+{
+  "name": "basic_shades_3",
+  "symbol": "BS3",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CnMHeHgrnbjxRDwRdr3bLC9wz6vavU4FzL1Uabatveap",
+        "share": 100
+      }
+    ]
+  }
+}
